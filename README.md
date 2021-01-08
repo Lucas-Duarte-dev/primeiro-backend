@@ -3,18 +3,18 @@
 
 ## Instalação das dependências
 Use os pacote: 
-[express]("https://expressjs.com/pt-br/starter/installing.html"),
+[express](https://expressjs.com/pt-br/starter/installing.html),
 ```bash
 yarn add express
 ```
-[sequelize] ("https://sequelize.org/master/") com [Postgress] ("https://www.postgresql.org/")
+[sequelize](https://sequelize.org/master/) com [Postgress](https://www.postgresql.org/)
 ```bash
 yarn add sequelize
 ```
 ```bash
 yarn add pg pg-hstor
 ```
-[cors] ("https://www.npmjs.com/package/cors")
+[cors](https://www.npmjs.com/package/cors)
 ```bash
 yarn add cors
 ```
