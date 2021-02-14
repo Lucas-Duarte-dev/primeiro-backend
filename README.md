@@ -3,6 +3,8 @@
 
 ## Instalação das dependências
 Use os pacote: 
+1. Rode `npm i` ou `yarn install` para baixar todas as dependências 
+
 [express](https://expressjs.com/pt-br/starter/installing.html),
 ```bash
 yarn add express
@@ -11,13 +13,7 @@ yarn add express
 ```bash
 yarn add sequelize
 ```
-```bash
-yarn add pg pg-hstor
-```
-[cors](https://www.npmjs.com/package/cors)
-```bash
-yarn add cors
-```
+
 
 ## Motivação
 Estava sentindo falta de algumas funcionalidades nas minhas aplicações front-end, e um cansaço de criar paginas estáticas.
